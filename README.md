@@ -80,3 +80,10 @@ text-alignment: center-text, top
   text-align: center;
 }
 ```
+
+# Using grid
+
+The template leverages CSS grid to make for easy styling and updating. Adding a new section in your resume does not require changing the rest of the resume's structure, but leaves that possibility open (with a few lines of CSS!)
+
+# Contributing
+Feel free to leave suggestions or raise issues - I'm happy to take feedback over the format or styling. Also feel welcome to use/edit for your own personal purposes.
